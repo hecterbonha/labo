@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     "Hecterbonha is a web artisan tinkering with everything from chilly server rooms to pay-as-you-go clouds. Turning requirement into production incident!",
 };
 
-export const RestyledGlobal = () => {
+const RestyledGlobal = () => {
   return (
     <>
       <GlobalStyles>
